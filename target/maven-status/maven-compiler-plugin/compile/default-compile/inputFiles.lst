@@ -1,0 +1,10 @@
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/controller/RegistrationController.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/entity/Role.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/controller/AdminController.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/config/WebSecurityConfig.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/repository/UserRepository.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/config/MvcConfig.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/entity/User.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/Application.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/service/UserService.java
+/home/mihailklimovich/Java/ServiceGramm/src/main/java/com/gramm/repository/RoleRepository.java

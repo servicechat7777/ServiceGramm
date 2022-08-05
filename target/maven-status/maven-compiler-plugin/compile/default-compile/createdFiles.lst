@@ -1,0 +1,10 @@
+com/gramm/entity/Role.class
+com/gramm/repository/RoleRepository.class
+com/gramm/repository/UserRepository.class
+com/gramm/controller/AdminController.class
+com/gramm/entity/User.class
+com/gramm/config/MvcConfig.class
+com/gramm/Application.class
+com/gramm/service/UserService.class
+com/gramm/controller/RegistrationController.class
+com/gramm/config/WebSecurityConfig.class
